@@ -1,0 +1,7 @@
+{
+  "name": "reki",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

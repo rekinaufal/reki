@@ -1,0 +1,71 @@
+  .avatar 
+  {
+    width: 210px;
+    height: 180px;
+    // border-radius: 50%;
+    // border:1px solid #d3d3d3;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+  }
+
+  .texttengah{
+  text-align: center;
+  }
+  .background {
+    background-color: rgb(244, 248, 255);
+  }
+
+  .sosmed {
+    padding: 1px;
+    font-size: 30px;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin-left:1% ;
+  }
+// CSS BUTTON -----------------------------------------------------------------------
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }  
+  .buttonexecutive {
+    width: 80%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    border-radius: 10px;
+  }
+  
+  .buttonlearning {
+    width: 80%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    border-radius: 10px;
+  }
+  
+  .buttonlibrary {
+    width: 80%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    border-radius: 10px;
+  }
+  
+  .buttonalumni {
+    width: 80%;
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+    border-radius: 10px;
+  }
